@@ -3,7 +3,7 @@
 You can read about the rules here: https://en.wikipedia.org/wiki/Peg_solitaire
 
 
-To move a pawn you need to select it with LMK. Then by pressing RMK, or the "Move" menu at the top, select the direction you want the pawn to move. 
+To move a pawn you need to select it with LMB. Then by pressing RMB, or the "Move" menu at the top, select the direction you want the pawn to move. 
 Optionally, you can use the keyboard shortcut CTRL + arrow key.
 
 ![](https://i.imgur.com/L3VdiX4.jpg)
